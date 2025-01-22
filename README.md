@@ -36,11 +36,3 @@ This assignment delves into distributed training pipelines and profiling tools:
 - Used **HuggingFace Accelerate** to simplify multi-GPU training setups, implementing mixed precision and distributed model evaluation.
 - Profiled the memory and computation costs of activation functions (e.g., ReLU, Sigmoid, GeLU) using the **PyTorch Profiler**, analyzing their efficiency.
 
----
-
-## **Usage**
-This repository is structured to highlight both technical implementations and experimental results. Each assignment is self-contained with:
-- Source code for all algorithms and models.
-- Detailed reports explaining methodologies, results, and analyses.
-
-For further inquiries, feel free to open an issue or contact the repository maintainer.
