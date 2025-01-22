@@ -1,0 +1,23 @@
+----------------------
+Nodelist:  raspberrypi-dml0
+Number of nodes:  1
+Ntasks per node:  1
+CPUs per task: 1
+---------------------- 
+MASTER_ADDR: raspberrypi-dml0:24442
+----------------------
+DistributedType.NO
+Training Started for Rank = 0
+Epoch [1/10], Train Loss: 1.0449, Train Accuracy: 72.77%, Test Loss: 0.5072, Test Accuracy: 84.66%
+Epoch [2/10], Train Loss: 0.5079, Train Accuracy: 84.10%, Test Loss: 0.4675, Test Accuracy: 85.18%
+Epoch [3/10], Train Loss: 0.4659, Train Accuracy: 85.05%, Test Loss: 0.4553, Test Accuracy: 85.69%
+Epoch [4/10], Train Loss: 0.4374, Train Accuracy: 85.99%, Test Loss: 0.4531, Test Accuracy: 85.76%
+Epoch [5/10], Train Loss: 0.4250, Train Accuracy: 86.30%, Test Loss: 0.4518, Test Accuracy: 85.98%
+Epoch [6/10], Train Loss: 0.4131, Train Accuracy: 86.78%, Test Loss: 0.4536, Test Accuracy: 85.52%
+Epoch [7/10], Train Loss: 0.4014, Train Accuracy: 86.92%, Test Loss: 0.4512, Test Accuracy: 86.01%
+Epoch [8/10], Train Loss: 0.3950, Train Accuracy: 87.18%, Test Loss: 0.4560, Test Accuracy: 85.60%
+Epoch [9/10], Train Loss: 0.3869, Train Accuracy: 87.47%, Test Loss: 0.4486, Test Accuracy: 85.91%
+Epoch [10/10], Train Loss: 0.3837, Train Accuracy: 87.57%, Test Loss: 0.4551, Test Accuracy: 85.66%
+Final Train Accuracy: 87.57%
+Final Test Accuracy: 85.66%
+Total Training Time: 210.72 seconds

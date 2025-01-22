@@ -1,0 +1,7 @@
+Job is started
+Total execution time: 1.2765288352966309 seconds
+Node 0 : Local Accuracy = 0.939 Execution Time = 1.2757503986358643 seconds
+Node 1 : Local Accuracy = 0.962 Execution Time = 1.275749683380127 seconds
+Average Accuracy: 0.9504999999999999
+Average Execution Time per Node: 1.2757500410079956 seconds
+Job is done

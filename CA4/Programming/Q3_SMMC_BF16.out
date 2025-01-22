@@ -1,0 +1,25 @@
+----------------------
+Nodelist:  raspberrypi-dml0
+Number of nodes:  1
+Ntasks per node:  1
+CPUs per task: 2
+---------------------- 
+MASTER_ADDR: raspberrypi-dml0:24442
+----------------------
+W0117 04:23:33.147000 1607706 torch/distributed/run.py:785] master_addr is only used for static rdzv_backend and when rdzv_endpoint is not specified.
+DistributedType.MULTI_CPU
+Training Started for Rank = 0Training Started for Rank = 1
+
+Epoch [1/10], Train Loss: 1.2318, Train Accuracy: 70.11%, Test Loss: 0.5482, Test Accuracy: 84.34%
+Epoch [2/10], Train Loss: 0.5223, Train Accuracy: 84.26%, Test Loss: 0.4642, Test Accuracy: 84.81%
+Epoch [3/10], Train Loss: 0.4625, Train Accuracy: 85.51%, Test Loss: 0.4603, Test Accuracy: 85.23%
+Epoch [4/10], Train Loss: 0.4347, Train Accuracy: 86.20%, Test Loss: 0.4569, Test Accuracy: 85.15%
+Epoch [5/10], Train Loss: 0.4168, Train Accuracy: 86.71%, Test Loss: 0.4561, Test Accuracy: 85.45%
+Epoch [6/10], Train Loss: 0.4070, Train Accuracy: 87.06%, Test Loss: 0.4520, Test Accuracy: 85.27%
+Epoch [7/10], Train Loss: 0.4038, Train Accuracy: 86.86%, Test Loss: 0.4507, Test Accuracy: 85.43%
+Epoch [8/10], Train Loss: 0.3955, Train Accuracy: 87.36%, Test Loss: 0.4579, Test Accuracy: 85.69%
+Epoch [9/10], Train Loss: 0.3906, Train Accuracy: 87.17%, Test Loss: 0.4549, Test Accuracy: 85.25%
+Epoch [10/10], Train Loss: 0.3745, Train Accuracy: 87.79%, Test Loss: 0.4542, Test Accuracy: 85.55%
+Final Train Accuracy: 87.79%
+Final Test Accuracy: 85.55%
+Total Training Time: 191.12 seconds
